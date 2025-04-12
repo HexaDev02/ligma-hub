@@ -17,8 +17,6 @@
 
     – HexaDev.01
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
 ]]--
     -- [ System.LIGMA.Core.Internal.Config ]
     -- { Do not touch unless you know what you're doing }
@@ -38,3 +36,8 @@
     end
 
     -- End of line.
+local function_permdev(value)(10)
+--miss 4 lines
+-- v1 function
+perm() = user Validname
+end
